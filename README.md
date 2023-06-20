@@ -36,7 +36,7 @@ to install JAX for GPU.
 
 ## Getting Started
 
-The [example script](https://github.com/deepmind/max_product_noisy_or/examples/example.py) shows a training and testing demonstration and can be run via
+The [example script](https://github.com/deepmind/max_product_noisy_or/blob/main/examples/example.py) shows a training and testing demonstration and can be run via
 ```
 python3 examples/example.py
 ```
